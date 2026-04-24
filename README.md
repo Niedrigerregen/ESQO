@@ -17,10 +17,11 @@ Important: This is not really a quantum computing project as i simulate qubits b
 
 <hr>
 
-<h2>Which Framework?
+<h2>Which Framework?</h2>
 
 <p>
 Qiskit based on python was the best pick as it was the easiest language relative to such a complex field
+</p>
 
 <h2>What classical solving algorithm will i use</h2>
 
@@ -28,7 +29,7 @@ Qiskit based on python was the best pick as it was the easiest language relative
 probably the Gauss elimination as it's just pure deterministic, which makes the perfect contrast for me
 </p>
 
-<h2>How big/complex should the Equation systems be?
+<h2>How big/complex should the Equation systems be?</h2>
   
 <p>  
 Up to 16 parameters would be cool for the Equationsystems but also very optimistic with my hardware
