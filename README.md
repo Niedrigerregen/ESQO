@@ -6,13 +6,13 @@
 
 <p>
 ESQO exists to find the difference between regular deterministic equation solvers like the Gauss elemination and<br>
-quantum inspired equation system algorithms.
+quantum simulating equation system algorithms.
 </p>
 
 <hr>
 
 <p>
-Important: This is not a quantum computing project as i don't work with physical qubits but rather just complex vectors that act like qubits through basic numpy
+Important: This is not really a quantum computing project as i simulate qubits and don't actually work with them
 </p>
 
 <hr>
@@ -21,4 +21,10 @@ Important: This is not a quantum computing project as i don't work with physical
 
 <p>
 probably the Gauss elimination as it's just pure deterministic, which makes the perfect contrast for me
+</p>
+
+<h2>How big/complex should the Equation systems be?
+  
+<p>  
+Up to 16 parameters would be cool for the Equationsystems but also very optimistic with my hardware
 </p>
