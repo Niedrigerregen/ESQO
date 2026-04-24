@@ -12,10 +12,15 @@ quantum simulating equation system algorithms.
 <hr>
 
 <p>
-Important: This is not really a quantum computing project as i simulate qubits and don't actually work with them
+Important: This is not really a quantum computing project as i simulate qubits but don't actually work with them
 </p>
 
 <hr>
+
+<h2>Which Framework?
+
+<p>
+Qiskit based on python was the best pick as it was the easiest language relative to such a complex field
 
 <h2>What classical solving algorithm will i use</h2>
 
