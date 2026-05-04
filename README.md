@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ESQO - Equation Solving via Quantum-inspired Optimization</h1>
+  <h1>ESQO - Equation Solving via Quantum-simulating Optimization</h1>
 </div>
 
 <hr>
