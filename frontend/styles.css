@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;   
+    font-family: monospace;
+    color: #efefef;
+}   
+
+input {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #000000;
+    background-color: #10fc10;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+body {
+    background-color: #000000;
+}
+
+.glow-text {
+  color: #fff;
+  text-shadow:
+    0 0 6px rgba(255,255,255,0.6),
+    0 0 12px rgba(255,255,255,0.35),
+    0 0 18px rgba(255,255,255,0.2);
+}
+
+.glow-button {
+  color: #000000;
+  background-color: #10fc10;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow:
+    0 0 6px rgba(16,252,16,0.6),
+    0 0 12px rgba(16,252,16,0.35),
+    0 0 18px rgba(16,252,16,0.2);
+}
