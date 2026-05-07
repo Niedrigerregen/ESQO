@@ -26,7 +26,7 @@ probably the Gauss elimination as it's just pure deterministic, which makes the 
 </h2>
 
 <p>
-  The architecture used is Variational Quantum Linear Solvers (VQLS) because they're more modern and lightweight than HHL. There is also a big efficiency Bonus as it minimizes the Mistake directly with ax - b rather than ax = b
+  The architecture used is Variational Quantum Linear Solvers (VQLS) because they're more modern and lightweight than HHL. There is also a big efficiency Bonus as it minimizes the Mistake directly with ax - b rather than ax = b.
 </p>
 
 <h2>How big/complex should the Equation systems be?</h2>
