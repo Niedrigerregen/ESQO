@@ -35,6 +35,7 @@ probably the Gauss elimination as it's just pure deterministic, which makes the 
 Up to 16 parameters would be cool for the Equation systems but also very optimistic with my hardware
 </p>
 
+Not working on this project for a while because of... stuff
 ----
-*made by Loran Hisso, not AI*
+*made by Loran Hisso*
 ----
